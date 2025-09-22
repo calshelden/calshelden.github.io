@@ -5,7 +5,7 @@ authors: "Peifen Lyu, Tzu-Yu Peng, Declan Kopper, **Calum Shelden**, Jeremy N. M
 permalink: /publication/2025-05-08-Transition-Metal-Nitrides-for-High-Temperature-Structural-Colors.md
 venue: "*ACS Appl. Mater. Interfaces*, 2025"
 date: 2025-05-08
-teaser: "2025-05-08_Lyu_cover.png"
+teaser: "2025-05-08_Lyu_cover.jpg"
 links: 
   - "[Paper](https://pubs.acs.org/doi/10.1021/acsami.5c01561){: .btn .btn--info}"
 ---

@@ -5,7 +5,7 @@ authors: "**Calum Shelden**, Benjamin Spreng, Jeremy N. Munday"
 permalink: /publication/Enhanced-repulsive-Casimir-forces-between-gold-and-thin-magnetodielectric-plates
 venue: "*Phys. Rev. A*, 2023"
 date: 2023-10-01
-teaser: 2023-09-09_Shelden.png
+teaser: "2023-09-09_Shelden.jpg"
 links:
   - "[Paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.032817){: .btn .btn--info}"
 

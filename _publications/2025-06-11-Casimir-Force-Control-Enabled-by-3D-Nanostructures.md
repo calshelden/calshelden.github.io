@@ -5,7 +5,7 @@ authors: "**Calum Shelden**, Benjamin Spreng, Joseph L. Garrett, Tahmid S. Rahma
 permalink: /publication/2025-06-11-Casimir-Force-Control-Enabled-by-3D-Nanostructures
 venue: "*Nano Lett.*, 2025"
 date: 2025-06-11
-teaser: "2025-06-11_Shelden_cover.png"
+teaser: "2025-06-11_Shelden_cover.jpg"
 links: 
   - "[Paper](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.5c01101){: .btn .btn--info}"
 ---

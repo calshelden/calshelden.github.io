@@ -5,7 +5,7 @@ authors: "**Calum Shelden**, Benjamin Spreng, Jeremy N. Munday"
 permalink: /publication/2024-12-03-Opportunities-and-challenges-involving-repulsive-Casimir-forces-in-nanotechnology
 venue: "*Appl. Phys. Rev.*, 2024"
 date: 2024-12-03
-teaser: "2024-12-03_Shelden_cover.png"
+teaser: "2024-12-03_Shelden_cover.jpg"
 links: 
   - "[Paper](https://pubs.aip.org/aip/apr/article-abstract/11/4/041325/3323600/Opportunities-and-challenges-involving-repulsive?redirectedFrom=fulltext){: .btn .btn--info}"
 ---

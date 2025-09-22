@@ -5,7 +5,7 @@ authors: "Kevin J. Palm, Tao Gong, **Calum Shelden**, Ece Deniz, Lisa J. Krayer,
 permalink: /publication/2022-06-08-Achieving-Scalable-Near-Zero-Index-Materials
 venue: "*Advanced Photonics Research*, 2022"
 date: 2022-06-08
-teaser: "2022-06-08_Palm_cover.png"
+teaser: "2022-06-08_Palm_cover.jpg"
 links: 
   - "[Paper](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adpr.202200109){: .btn .btn--info}"
 ---
