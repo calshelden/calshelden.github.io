@@ -1,0 +1,17 @@
+# Home page news
+main:
+  - date: "Sep 2025"
+    info: "I am honored to receive the Richard and Joy Dorf Graduate Student Award from the UC Davis ECE Department."
+  - date: "June 2025"
+    info: "Our article on [*Casimir Force Control Enabled by 3D Nanostructures*](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.5c01101) is published in *Nano Letters*!"
+  - date: "May 2025"
+    info: "Some of my work on the Casimir Force is featured in a UC Davis College of Engineering news article, [*Controlling the (Casimir) Force*](https://engineering.ucdavis.edu/news/controlling-casimir-force)."
+  - date: "Dec 2024"
+    info: "Our article on [*Opportunities and challenges involving repulsive Casimir forces in nanotechnology*](https://pubs.aip.org/aip/apr/article-abstract/11/4/041325/3323600/Opportunities-and-challenges-involving-repulsive?redirectedFrom=fulltext) is published in *Applied Physical Reviews*!"
+
+
+all:
+  - date: "July 2024"
+    info: "I am honored to receive the Summer Graduate Student Researcher Award from UC Davis Graduate Studies."
+  - date: "May 2024"
+    info: "The UC Davis Electrical and Computer Engineering Graduate Student Association, which I am leading this academic year, is featured in a UC Davis College of Engineering news article, [*ECE Graduate Student Association Sparks Community*](https://engineering.ucdavis.edu/news/ece-graduate-student-association-sparks-community)."

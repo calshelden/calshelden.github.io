@@ -1,0 +1,67 @@
+/* ==========================================================================
+   PUBLICATION
+   ========================================================================== */
+
+.publication {
+  margin-bottom: 2em;
+
+  @include breakpoint($medium) {
+    @include span(12 of 12);
+  }
+
+  @include breakpoint($large) {
+    @include span(10 of 12 last);
+    @include prefix(0.5 of 12);
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+.publication__item {
+  font-size: .85em;
+}
+
+.publication__item-title {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  font-family: $sans-serif-narrow;
+
+  a + a {
+    opacity: 0.5;
+  }
+}
+
+// remove border
+.page__content {
+  .publication__item-title {
+    margin-top: 1em;
+    border-bottom: none;
+  }
+}
+
+.publication__item-text {
+  width: 60%; 
+  float: left; 
+  padding-left: 20px;
+
+  // Remove top margin of first child (usually h2)
+  > *:first-child {
+    margin-top: 0;
+  }
+}
+
+.publication__item-teaser {
+  box-shadow: 0 0 10px rgba(#000, 0.25);
+  border-radius: $border-radius;
+  overflow: hidden;
+  width: 20%; 
+  float: left;
+  height: auto;
+
+  img {
+    width: 100%;
+  }
+}

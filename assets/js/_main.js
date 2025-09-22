@@ -140,3 +140,15 @@ $(document).ready(function () {
   });
 
 });
+
+/* ==========================================================================
+   Custom functions for toggling news blocks
+   ========================================================================== */
+
+function hideBlock(id) {
+  document.getElementById(id).style.display = "none";
+}
+
+function showBlock(id) {
+  document.getElementById(id).style.display = "block";
+}
